@@ -1,0 +1,7 @@
+C:\Users\Dasha\Desktop\Education\Programs\PlantsApp\PlantsApp\obj\Debug\PlantsApp.csproj.AssemblyReference.cache
+C:\Users\Dasha\Desktop\Education\Programs\PlantsApp\PlantsApp\obj\Debug\PlantsApp.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Desktop\Education\Programs\PlantsApp\PlantsApp\bin\Debug\PlantsApp.exe.config
+C:\Users\Dasha\Desktop\Education\Programs\PlantsApp\PlantsApp\bin\Debug\PlantsApp.exe
+C:\Users\Dasha\Desktop\Education\Programs\PlantsApp\PlantsApp\bin\Debug\PlantsApp.pdb
+C:\Users\Dasha\Desktop\Education\Programs\PlantsApp\PlantsApp\obj\Debug\PlantsApp.exe
+C:\Users\Dasha\Desktop\Education\Programs\PlantsApp\PlantsApp\obj\Debug\PlantsApp.pdb
