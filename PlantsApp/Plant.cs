@@ -6,26 +6,36 @@ using System.Threading.Tasks;
 
 namespace PlantsApp
 {
-    enum Month
+    public enum Month
     {
         Январь, Февраль, Март, Апрель, Май, Июнь, Июль, Август, Сентябрь, Октябрь, Ноябрь, Декабрь
     }
-    abstract class Plant
+
+    public interface IPlant
     {
-        public string Name { get; set; }
-        public Plant(string name)
+        string GetInfo();
+    }
+
+    abstract class Plant : IPlant
+    {
+        public string Name { get; }
+        protected Plant(string name)
         {
-            Name = name;
+            Name = string.IsNullOrWhiteSpace(name)
+                ? throw new ArgumentException("Название растения не может быть пустым", nameof(name))
+            : name;
         }
         public abstract string GetInfo();
     }
 
     class Tree : Plant
     {
-        public long Age { get; set; }
+        public long Age { get; }
         public Tree(string name, long age): base(name)
         {
-            Age = age;
+            Age = age < 0
+                ? throw new ArgumentOutOfRangeException(nameof(age), "Возраст дерева не может быть отрицательным")
+                : age;
         }
         public override string GetInfo()
         {
@@ -53,7 +63,9 @@ namespace PlantsApp
         public double SpineLength { get; set; }
         public Cactus(string name, double spineLength): base(name)
         {
-            SpineLength = spineLength;
+            SpineLength = spineLength < 0
+                ? throw new ArgumentOutOfRangeException(nameof(spineLength), "Длина колючек не может быть отрицательной")
+                : spineLength;
         }
 
         public override string GetInfo()
