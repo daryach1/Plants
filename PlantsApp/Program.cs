@@ -44,7 +44,7 @@ namespace PlantsApp
                     RemovePlant(parts);
                     break;
                 case "PRINT":
-                    PrintPlants();
+                    //PrintPlants();
                     break;
                 default:
                     Console.WriteLine("Неизвестная команда");
@@ -71,22 +71,6 @@ namespace PlantsApp
             string value = parts[3];
 
             //plants = plants.Where(p => !CheckCondition(p, field, op, value)).ToList();
-        }
-
-        static void PrintPlants()
-        {
-            Console.WriteLine("------Текущее состояние контейнера:------");
-            if(plants.Count == 0)
-            {
-                Console.WriteLine("Нет растений");
-                return;
-            }
-
-            foreach (var plant in plants)
-            {
-                Console.WriteLine(plant.GetInfo());
-            }
-            Console.WriteLine("-----------------------------------------");
         }
     }
 }
