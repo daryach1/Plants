@@ -13,6 +13,7 @@ namespace PlantsApp
 
     public interface IPlant
     {
+        string Name { get; }
         string GetInfo();
     }
 

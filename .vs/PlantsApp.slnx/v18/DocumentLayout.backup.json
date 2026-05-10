@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|c:\\users\\dasha\\desktop\\education\\programs\\plantsapp\\plantsapp\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|solutionrelative:plantsapp\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|c:\\users\\dasha\\desktop\\education\\programs\\plantsapp\\plantsapp\\commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|solutionrelative:plantsapp\\commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\plantsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|solutionrelative:plantsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|c:\\users\\dasha\\desktop\\education\\programs\\plantsapp\\plantsapp\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|solutionrelative:plantsapp\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,20 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Plant.cs",
               "DocumentMoniker": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\Plant.cs",
               "RelativeDocumentMoniker": "PlantsApp\\Plant.cs",
               "ToolTip": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\Plant.cs",
               "RelativeToolTip": "PlantsApp\\Plant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T17:13:25.053Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommandParser.cs",
+              "DocumentMoniker": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\CommandParser.cs",
+              "RelativeDocumentMoniker": "PlantsApp\\CommandParser.cs",
+              "ToolTip": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\CommandParser.cs",
+              "RelativeToolTip": "PlantsApp\\CommandParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:06:29.89Z",
               "EditorCaption": ""
             },
             {
@@ -42,7 +59,7 @@
               "RelativeDocumentMoniker": "PlantsApp\\Program.cs",
               "ToolTip": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\Program.cs",
               "RelativeToolTip": "PlantsApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwDgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T17:11:19.914Z",
               "EditorCaption": ""
