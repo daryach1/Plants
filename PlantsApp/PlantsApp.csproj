@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CommandParser.cs" />
+    <Compile Include="FileProcessor.cs" />
     <Compile Include="Plant.cs" />
     <Compile Include="PlantManager.cs" />
     <Compile Include="Program.cs" />
