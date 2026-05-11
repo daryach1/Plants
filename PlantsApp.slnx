@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="PlantsApp.Tests/PlantsApp.Tests.csproj" Id="c7d37b8f-9cfc-4177-a124-8db3d6e151e6" />
   <Project Path="PlantsApp/PlantsApp.csproj" Id="ba648d81-f97e-48b7-9ae2-40d59a2dfdd8" />
 </Solution>

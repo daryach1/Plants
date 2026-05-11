@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp.Tests\\PlantsApp.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp.Tests\\PlantsApp.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp.Tests\\PlantsApp.Tests.csproj",
+        "projectName": "PlantsApp.Tests",
+        "projectPath": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp.Tests\\PlantsApp.Tests.csproj",
+        "packagesPath": "C:\\Users\\Dasha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\PlantsApp.csproj": {
+                "projectPath": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\PlantsApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.5.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\PlantsApp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\PlantsApp.csproj",
+        "projectName": "PlantsApp",
+        "projectPath": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\PlantsApp.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472"
+        }
+      }
+    }
+  }
+}
