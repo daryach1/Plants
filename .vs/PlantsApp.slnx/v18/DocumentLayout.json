@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|c:\\users\\dasha\\desktop\\education\\programs\\plantsapp\\plantsapp\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7D37B8F-9CFC-4177-A124-8DB3D6E151E6}|PlantsApp.Tests\\PlantsApp.Tests.csproj|c:\\users\\dasha\\desktop\\education\\programs\\plantsapp\\plantsapp.tests\\plantmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D37B8F-9CFC-4177-A124-8DB3D6E151E6}|PlantsApp.Tests\\PlantsApp.Tests.csproj|solutionrelative:plantsapp.tests\\plantmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\plantsapp\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|solutionrelative:plantsapp\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\plantsapp\\plantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|solutionrelative:plantsapp\\plantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|c:\\users\\dasha\\desktop\\education\\programs\\plantsapp\\plantsapp\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|solutionrelative:plantsapp\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\plantsapp\\commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|solutionrelative:plantsapp\\commandparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\plantsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA648D81-F97E-48B7-9AE2-40D59A2DFDD8}|PlantsApp\\PlantsApp.csproj|solutionrelative:plantsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Plant.cs",
               "DocumentMoniker": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\Plant.cs",
               "RelativeDocumentMoniker": "PlantsApp\\Plant.cs",
               "ToolTip": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\Plant.cs",
               "RelativeToolTip": "PlantsApp\\Plant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T16:22:52.414Z",
+              "WhenOpened": "2026-05-11T11:09:48.317Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlantManager.cs",
-              "DocumentMoniker": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\PlantManager.cs",
-              "RelativeDocumentMoniker": "PlantsApp\\PlantManager.cs",
-              "ToolTip": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\PlantManager.cs",
-              "RelativeToolTip": "PlantsApp\\PlantManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PlantModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp.Tests\\PlantModelTests.cs",
+              "RelativeDocumentMoniker": "PlantsApp.Tests\\PlantModelTests.cs",
+              "ToolTip": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp.Tests\\PlantModelTests.cs",
+              "RelativeToolTip": "PlantsApp.Tests\\PlantModelTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T15:32:03.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FileProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\FileProcessor.cs",
-              "RelativeDocumentMoniker": "PlantsApp\\FileProcessor.cs",
-              "ToolTip": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\FileProcessor.cs",
-              "RelativeToolTip": "PlantsApp\\FileProcessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T15:51:12.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommandParser.cs",
-              "DocumentMoniker": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\CommandParser.cs",
-              "RelativeDocumentMoniker": "PlantsApp\\CommandParser.cs",
-              "ToolTip": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\CommandParser.cs",
-              "RelativeToolTip": "PlantsApp\\CommandParser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T16:06:21.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\Program.cs",
-              "RelativeDocumentMoniker": "PlantsApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Dasha\\Desktop\\Education\\Programs\\PlantsApp\\PlantsApp\\Program.cs",
-              "RelativeToolTip": "PlantsApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T17:11:19.914Z",
+              "WhenOpened": "2026-05-11T11:42:19.935Z",
               "EditorCaption": ""
             }
           ]
