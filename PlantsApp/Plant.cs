@@ -42,7 +42,7 @@ namespace PlantsApp
     
     class Bush : Plant
     {
-        public Month FloweringMonth { get; set; }
+        public Month FloweringMonth { get; }
         public Bush(string name, Month month): base(name)
         {
             FloweringMonth = month;
@@ -57,7 +57,7 @@ namespace PlantsApp
 
     class Cactus : Plant
     {
-        public double SpineLength { get; set; }
+        public double SpineLength { get; }
         public Cactus(string name, double spineLength): base(name)
         {
             SpineLength = spineLength < 0
